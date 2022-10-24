@@ -1,6 +1,6 @@
 # git常用语句
 
-```
+```bash
 mdkir notes
 
 cd notes
@@ -17,7 +17,7 @@ touch README.md
 
 git add .
 
-gti commit -m 'first commit'
+git commit -m 'first commit'
 
 -- 关联远程分支
 
@@ -31,7 +31,7 @@ git push -u origin master
 
 git add .
 
-gti commit -m 'message'
+git commit -m 'message'
 
 git push origin master
 ```
