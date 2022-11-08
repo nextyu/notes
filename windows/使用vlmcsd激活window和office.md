@@ -4,6 +4,10 @@
 
 kms只能激活批量版（也称VOL版），不能激活零售版
 
+免费kms激活服务（学习使用）
+
+`kms.nextyu.com`
+
 ## 下载vlmcsd
 
 [下载地址](https://github.com/Wind4/vlmcsd/releases)
